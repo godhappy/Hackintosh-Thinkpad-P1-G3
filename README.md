@@ -1,5 +1,5 @@
 # Hackintosh-Thinkpad-P1-G3
- [Hackintosh] Configuration for Lenovo Thinkpad P Gen III.
+ [Hackintosh] Configuration for Lenovo Thinkpad P1 Gen III.
 
 * Nothing yet waiting for my new workstation XD
 
